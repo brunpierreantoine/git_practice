@@ -1,2 +1,0 @@
-# Codecademy
- Tutorials from Codecademy
